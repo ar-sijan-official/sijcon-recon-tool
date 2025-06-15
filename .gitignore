@@ -1,0 +1,26 @@
+# Ignore temporary files
+*.tmp
+*.bak
+*.log
+
+# Ignore IDE/editor files
+.vscode/
+.idea/
+*.swp
+
+# Ignore Python cache (from Dirsearch dependencies)
+__pycache__/
+*.pyc
+
+# Ignore system-specific files
+.DS_Store
+
+# Ignore output directories (recon data is user-generated and not versioned)
+Desktop/recon/
+
+# Ignore virtual environments (if used for Python dependencies)
+venv/
+env/
+
+# Ignore Git files
+.gitignore
