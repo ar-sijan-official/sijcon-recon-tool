@@ -1,7 +1,7 @@
 
                           Sijcon Recon Tool (sijcon.sh)
                           
-================================================================================
+===========================================================================
 
 The **Sijcon Recon Tool** (sijcon.sh) is an automated Bash script designed for 
 cybersecurity professionals to perform comprehensive reconnaissance on a target 
